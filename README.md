@@ -14,9 +14,9 @@
     ```
     
     ```
-[core]
-        preloadindex = true
-        fscache = true
-[gc]
-        auto = 256
+      [core]
+              preloadindex = true
+              fscache = true
+      [gc]
+              auto = 256
     ```
