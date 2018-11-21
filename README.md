@@ -13,6 +13,8 @@
     ./getGitInfoProject.sh
     ```
     
+    Setting .gitconfig for faster load
+    
     ```
       [core]
               preloadindex = true
